@@ -1,8 +1,14 @@
-# dotnet-mongo
+# Projeto realizado no Bootcamp LocalizaLabs .NET Developer na Digital Innovation One
 
-Exemplo de aplicação .net core com mongodb.
+## Construindo um projeto de uma API.NET integrada ao MongoDB
 
-Para teste:
+Construiremos um projeto de uma API em .NET Core integrada a um cluster MongoDB, que também criaremos em tempo real no service cloud Mongo Atlas. Conhecemos os conceitos básicos de front-end, back-end, bases de dados, NoSQL e MongoDB para fixar o entendimento e sua aplicabilidade.
+
+### Tecnologias utilizadas
+
+- .NET Core
+- MongoDB
+- Service Cloud Mongo Atlas: Com o MongoDB Atlas, seus clusters de autocura são compostos de instâncias de banco de dados distribuídas geograficamente para garantir que não haja nenhum ponto único de falha. O MongoDB Atlas facilita o controle do acesso ao seu banco de dados. Suas instâncias de banco de dados são implantadas em uma nuvem privada virtual (VPC) exclusiva para garantir o isolamento da rede. Outros recursos de segurança incluem lista de permissões de IP ou VPC Peering, autenticação sempre ativa, criptografia em repouso e criptografia em trânsito, gerenciamento sofisticado de acesso baseado em funções e muito mais.
 
 https://localhost:5001/infectado
 
